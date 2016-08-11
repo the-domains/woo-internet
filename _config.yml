@@ -6,9 +6,9 @@ color:
   saturation: 0.06985753076151013
   rhythmicContrast: 0.5104143586941063
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
 name: Woo Internet!
